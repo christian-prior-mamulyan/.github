@@ -37,3 +37,5 @@ The interesting question for me is not whether AI can generate code, but how sof
 My professional IT working language has been English for decades.
 
 I am especially interested in roles and environments where business, software, data, integration and physical products meet.
+
+More at [career.cprima.net](https://career.cprima.net).
