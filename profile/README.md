@@ -1,41 +1,26 @@
 # Christian Prior-Mamulyan
 
-Commercially trained systems builder bridging business and technology.
+Selected public work on software, integration and hardware/software systems.
 
-I work across business processes, data, software, integration, platforms and physical systems — from defining the problem to building and validating working technical solutions.
+## Areas
 
-My background combines:
+- Software engineering and developer tooling
+- Automation and system integration
+- Data and architecture models
+- Legacy systems and their modernization
+- Embedded and hardware/software integration
+- Software development with coding agents
 
-- business administration and commercial operations
-- software engineering and developer tooling
-- enterprise integration and automation
-- data models and operational systems
-- legacy modernization
-- hardware/software integration
-- technical delivery and organizational scaling
+## Repositories
 
-## What I build
+- [zx81-multiplication-tables](https://github.com/christian-prior-mamulyan/zx81-multiplication-tables)
+  A multiplication trainer written in ZX81 BASIC, run unchanged inside a ZX81 emulator in the browser.
+  Live: [career.cprima.net/zx81-multiplication-tables](https://career.cprima.net/zx81-multiplication-tables/)
+- Configuration engine for UiPath projects *(coming soon)*
+  Settings from several file formats and UiPath Orchestrator, resolved by fixed priority rules into typed .NET configuration.
+- Gateway for a legacy server management card *(coming soon)*
+  A modern command-line, REST and ESPHome interface for an older remote-management card, running on an ESP32.
+- Documents as code *(coming soon)*
+  Letters and structured documents built with LaTeX in a reproducible Docker build.
 
-This organization contains selected public work around:
-
-- software engineering and developer tooling
-- integration and automation
-- architecture and technical experiments
-- embedded and hardware/software systems
-- AI-assisted software development and coding-agent workflows
-
-The common thread is not a particular technology. It is the use of technology to turn ambiguous or constrained situations into systems that are understandable, testable and operational.
-
-## AI-assisted engineering
-
-I use coding agents as implementation leverage, while retaining responsibility for architecture, constraints, validation and technical decisions.
-
-The interesting question for me is not whether AI can generate code, but how software engineering changes when implementation capacity becomes abundant.
-
-## Professional context
-
-My professional IT working language has been English for decades.
-
-I am especially interested in roles and environments where business, software, data, integration and physical products meet.
-
-More at [career.cprima.net](https://career.cprima.net).
+Each repository documents how it is built and tested.
